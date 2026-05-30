@@ -1,0 +1,13 @@
+# Python caches and environments
+__pycache__/
+env/
+venv/
+.env
+
+# ML Artifacts & Data
+*.pickle
+*.joblib
+*.h5
+
+# OS generated files
+.DS_Store
